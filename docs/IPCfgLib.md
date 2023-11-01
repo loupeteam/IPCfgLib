@@ -7,7 +7,7 @@ Machines often need to be integrated into existing facility networks. This makes
 The IPCfgLib also supplies a clean interface to connect to a Windows network drive. Using Windows file sharing, a machine can read and write to a network drive in order to save and open recipes or configuration files. The WinShare function can be tied directly to the HMI for a user to enter usernames and passwords as well as parameters to configure what network drive to connect to.
 
 # Usage
-The IPCfgLib functionality can be integrated into any project using function blocks. For an example of how to use these in a project, please see the ARG Automation Studio Starter Project at [https://github.com/autresgrp/StarterProject](https://github.com/autresgrp/StarterProject).
+The IPCfgLib functionality can be integrated into any project using function blocks.
 
 ## Initialization
 To use the IPCfgLib functionality, **IPConfig** and **WinShare** function block instances must be declared.
