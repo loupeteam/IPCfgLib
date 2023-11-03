@@ -1,13 +1,10 @@
-(********************************************************************
- * COPYRIGHT -- ARG
- ********************************************************************
- * Package: IPSettings
- * File: IPSettings.typ
- * Author: Administrator
- * Created: February 28, 2011
- ********************************************************************
- * Data types of package IPSettings
- ********************************************************************)
+(*
+ * File: IPCfgLib.typ
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of IPCfgLib, licensed under the MIT License.
+ *)
 
 TYPE
 	IPConfig_Settings_typ : 	STRUCT 

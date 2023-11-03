@@ -1,13 +1,10 @@
-(********************************************************************
- * COPYRIGHT -- Automation Resources Group
- ********************************************************************
- * Library: IPCfgLib
+(*
  * File: IPConfig.st
- * Author: Josh Polansky
- * Created: March 01, 2011
- ********************************************************************
- * Implementation of library IPCfgLib
- ********************************************************************) 
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of IPCfgLib, licensed under the MIT License.
+ *)
 
 
 (* Device change			DONE and TESTED DFB 20130724 *)

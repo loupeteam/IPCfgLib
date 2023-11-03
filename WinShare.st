@@ -1,13 +1,10 @@
-(********************************************************************
- * COPYRIGHT -- Automation Resources Group
- ********************************************************************
- * Program:
+(*
  * File: WinShare.st
- * Author: buchananw, Josh Polansky, David Blackburn
- * Created: May 12, 2010
- ********************************************************************
- * Implementation of library IPCfgLib
- ********************************************************************) 
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of IPCfgLib, licensed under the MIT License.
+ *)
 
  
 FUNCTION_BLOCK WinShare

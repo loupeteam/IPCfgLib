@@ -1,13 +1,10 @@
-(********************************************************************
- * COPYRIGHT -- ARG
- ********************************************************************
- * Library: IPSettings
- * File: IPSettings.fun
- * Author: Administrator
- * Created: March 01, 2011
- ********************************************************************
- * Functions and function blocks of library IPSettings
- ********************************************************************)
+(*
+ * File: IPCfgLib.fun
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of IPCfgLib, licensed under the MIT License.
+ *)
 
 FUNCTION_BLOCK IPConfig (*Basic function block for managing IP settings*)
 	VAR_INPUT
