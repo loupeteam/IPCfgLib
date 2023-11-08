@@ -4,7 +4,6 @@
   <Files>
     <File>IPCfgLib.html</File>
     <File>IPCfgLib.md</File>
-    <File>VersionHistory.txt</File>
     <File Description="Global data types">IPCfgLib.typ</File>
     <File Description="Exported functions and function blocks">IPCfgLib.fun</File>
     <File>IPConfig.st</File>
