@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.3.8.58 SP?>
+<Library Version="3.01.2" xmlns="http://br-automation.co.at/AS/Library">
+  <Files>
+    <File>IPCfgLib.html</File>
+    <File>IPCfgLib.md</File>
+    <File Description="Global data types">IPCfgLib.typ</File>
+    <File Description="Exported functions and function blocks">IPCfgLib.fun</File>
+    <File>IPConfig.st</File>
+    <File Description="Implements a link to a file device based on passed-in parameters.">WinShare.st</File>
+  </Files>
+  <Dependencies>
+    <Dependency ObjectName="AsARCfg" />
+    <Dependency ObjectName="FileIO" />
+    <Dependency ObjectName="StringExt" />
+    <Dependency ObjectName="AsBrStr" />
+  </Dependencies>
+</Library>
